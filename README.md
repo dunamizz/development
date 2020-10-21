@@ -16,3 +16,5 @@ Watch our tutorials on YouTube
 
 4. Make adjustments.
 
+5. Commit your code.
+
