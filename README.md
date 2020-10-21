@@ -18,3 +18,4 @@ Watch our tutorials on YouTube
 
 5. Local review.
 
+6. Repeat.
