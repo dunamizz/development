@@ -14,3 +14,5 @@ Watch our tutorials on YouTube
 
 3. Review your code.
 
+4. Make adjustments.
+
